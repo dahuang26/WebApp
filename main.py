@@ -651,7 +651,7 @@ def getMK_Nst(model=None, N_st=None,M=None,h1=None,h2=None):
 
 @app.route('/')
 def index():
-    return render_template('demo.html')
+    return render_template('index.html')
 
 @app.route('/submit', methods=['POST'])
 def submit():
