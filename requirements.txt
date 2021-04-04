@@ -1,0 +1,7 @@
+python==3.7
+flask
+scipy
+tensorflow==2.4.1
+sys
+time
+func_timeout
